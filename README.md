@@ -1,1 +1,1 @@
-# CHATBOT-PHILOSOPHY
+# PRO-C119-Teacher-Boilerplate-Code
